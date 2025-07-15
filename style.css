@@ -1,0 +1,45 @@
+* {
+   font-family: Arial, sans-serif;
+}
+
+body {
+   background-color: #f0f0f0;
+}
+
+.list {
+   max-width: 500px;
+   background-color: white;
+   padding: 20px;
+   margin: 100px auto ;
+   border-radius: 10px;
+}
+
+.item {
+   background-color: #e5f1e5;
+   padding: inherit;
+   margin-bottom: 10px;
+   border-radius: inherit;
+}
+
+h1 {
+   text-align: center;
+}
+
+a {
+   text-decoration: none;
+}
+
+a:hover {
+   color: red;
+}
+a:visited {
+   color: brown;
+}
+a:active {
+   color: green;
+}
+
+li {
+   list-style: square inside;
+}
+
